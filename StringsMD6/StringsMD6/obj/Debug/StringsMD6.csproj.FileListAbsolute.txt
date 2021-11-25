@@ -1,0 +1,8 @@
+C:\Users\derick\Desktop\Projetos de Estudo Derick\Modulo parte 6\StringsMD6\StringsMD6\bin\Debug\StringsMD6.exe.config
+C:\Users\derick\Desktop\Projetos de Estudo Derick\Modulo parte 6\StringsMD6\StringsMD6\bin\Debug\StringsMD6.exe
+C:\Users\derick\Desktop\Projetos de Estudo Derick\Modulo parte 6\StringsMD6\StringsMD6\bin\Debug\StringsMD6.pdb
+C:\Users\derick\Desktop\Projetos de Estudo Derick\Modulo parte 6\StringsMD6\StringsMD6\obj\Debug\StringsMD6.csproj.AssemblyReference.cache
+C:\Users\derick\Desktop\Projetos de Estudo Derick\Modulo parte 6\StringsMD6\StringsMD6\obj\Debug\StringsMD6.csproj.SuggestedBindingRedirects.cache
+C:\Users\derick\Desktop\Projetos de Estudo Derick\Modulo parte 6\StringsMD6\StringsMD6\obj\Debug\StringsMD6.csproj.CoreCompileInputs.cache
+C:\Users\derick\Desktop\Projetos de Estudo Derick\Modulo parte 6\StringsMD6\StringsMD6\obj\Debug\StringsMD6.exe
+C:\Users\derick\Desktop\Projetos de Estudo Derick\Modulo parte 6\StringsMD6\StringsMD6\obj\Debug\StringsMD6.pdb
