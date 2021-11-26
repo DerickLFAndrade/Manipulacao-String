@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\StringsMD6",
+    "\\StringsMD6\\StringsMD6"
   ],
+  "SelectedNode": "\\StringsMD6\\StringsMD6\\ExtratorValorArgumentos.cs",
   "PreviewInSolutionExplorer": false
 }
