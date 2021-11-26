@@ -8,6 +8,24 @@ using System.Threading.Tasks;
 namespace StringsMD6 {
     internal class Program {
         static void Main() {
+            //ManipulacaoStrings();
+
+            ClasseObject();
+            Console.ReadKey();
+        }
+        public static void ClasseObject() {
+            ObjetosES obj_1 = new ObjetosES("Derick", 23);
+            ObjetosES obj_2 = new ObjetosES("Derick", 23);
+
+            if(obj_1.Equals(obj_2) == true) {
+                Console.WriteLine($"O objeto é igual ao objeto 2");
+            } else {
+                Console.WriteLine($"O objeto não é igual ao objeto 2");
+            }
+           
+
+        }
+        public static void ManipulacaoStrings() {
             string urlParametros = "http://www.bytebank.com/cabio?moedaOrigem=real&moedaDestino=dolar&valor=1500";
             ExtratorValorArgumentos extratorDeValores = new ExtratorValorArgumentos(urlParametros);
 
@@ -19,9 +37,6 @@ namespace StringsMD6 {
 
             string valor = extratorDeValores.GetValor("VaLor");
             Console.WriteLine($"Valor: {valor}");
-
-
-
         }
     }
 }
